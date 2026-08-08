@@ -1,11 +1,14 @@
 {
-  "name": "GL Plugins",
+  "name": "GL_Plugin_Repo",
+  "owner": {
+    "name": "Great Learning"
+  },
   "plugins": [
     {
       "name": "plugin1",
-      "displayName": "Description of plugin1",
+      "displayName": "Plugin 1",
       "source": "./plugin1",
-      "description": "Describe Plugin 1"
-    
+      "description": "Description of what this plugin does."
+    }
   ]
 }
