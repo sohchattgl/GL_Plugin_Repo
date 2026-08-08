@@ -1,6 +1,6 @@
 {
-  "name": "My Plugins",
+  "name": "GL Plugins",
   "plugins": [
-    { "id": "my-plugin", "path": "my-plugin" }
+    { "id": "plugin1", "path": "/plugin1" }
   ]
 }
