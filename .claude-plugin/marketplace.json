@@ -1,0 +1,6 @@
+{
+  "name": "My Plugins",
+  "plugins": [
+    { "id": "my-plugin", "path": "my-plugin" }
+  ]
+}
